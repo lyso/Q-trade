@@ -132,3 +132,7 @@ dmypy.json
 .idea/
 
 # VSCode
+.vscode/
+
+# credentials
+trading_ig_config.py
